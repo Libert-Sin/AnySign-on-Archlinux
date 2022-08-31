@@ -1,0 +1,6 @@
+debtap -q 'anysign4pc_linux_x86_64.deb'
+sudo pacman -U 'anysign4pc-1.1.0.7-1-x86_64.pkg.tar.zst'
+
+sudo ln -s /opt/anysign4pc/amd64/libNativeMng.so /usr/lib/
+
+reboot
