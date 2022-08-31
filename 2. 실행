@@ -1,0 +1,3 @@
+sudo /etc/init.d/AnySign.linux.x64 ᅟstart
+
+sudo /opt/anysign4pc/amd64/AnySign.ex
